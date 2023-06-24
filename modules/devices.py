@@ -37,7 +37,7 @@ def get_optimal_device_name():
     if has_mps():
         return "mps"
 
-    return "cpu"
+    return "xla"
 
 
 def get_optimal_device():

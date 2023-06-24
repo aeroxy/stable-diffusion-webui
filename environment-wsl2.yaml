@@ -6,6 +6,6 @@ dependencies:
   - python=3.10
   - pip=23.0
   - cudatoolkit=11.8
-  - pytorch=2.0
+  - pytorch=https://storage.googleapis.com/tpu-pytorch/wheels/tpuvm/torch_xla-2.0-cp38-cp38-linux_x86_64.whl
   - torchvision=0.15
   - numpy=1.23

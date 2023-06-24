@@ -47,3 +47,5 @@
 #export NO_TCMALLOC="True"
 
 ###########################################
+
+export PJRT_DEVICE=TPU
